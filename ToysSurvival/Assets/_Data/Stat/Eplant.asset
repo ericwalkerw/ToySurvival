@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2836c337cb2931c489ccecfc57b26c95, type: 3}
+  m_Name: Eplant
+  m_EditorClassIdentifier: 
+  maxHP: 10
+  damage: 1
+  sfxSounds:
+  - {fileID: 11400000, guid: e2bca9fe13ef5674ea2afe78f378008d, type: 2}
+  - {fileID: 11400000, guid: f443c097c8b0fbe44a205595d31bd3f2, type: 2}
